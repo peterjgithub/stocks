@@ -1,0 +1,49 @@
+vandaag: aandeelkoers 51,56€
+
+ik koop optie voor 100 aandelen @55€ voor 64€
++7,5€=71,5€
+
+op vervaldag (18 aug):
+- prijs = 53€
+ak prijs: 64€ (+ kosten = 71,5€)
+NIET: ak aandelen: 100*55 = 5500
+
+resultaat: -71,5€
+
+
+- prijs = 55,64€
+ak prijs: 64€ (+ kosten = 71,5€)
+ak aandelen: 100*55 = 5500
+totaal kosten: =5500+64= 5564€+7,5€ kosten=5571,5€
+inkomsten: 100*55,64=5564€
+
+resultaat: 0 
+(7,5€ kosten)
+
+- prijs = 57
+ak prijs: 64€ (+ kosten = 71,5€)
+ak aandelen: 100*55 = 5500
+totaal kosten: =5500+64= 5564€+7,5€ kosten=5571,5€
+inkomsten: 100*57=5700€
+
+resultaat: 136€
+(7,5€ kosten)
+
+
+The rate of return we calculate here is called cumulative return or overall return. 
+It measures the total return of this asset over a period of time.
+
+Now consider the following situation: we have two strategies: strategy A and strategy B. 
+We backtested strategy A for 1 years and the cumulative return is 20%, 
+while we backtested strategy B for 3 months(one quarter) and the cumulative return is 6%. 
+
+Which strategy has a high rate of return? 
+Our commonly used method is to convert all the returns into compounding annual return, 
+regardless of the investing horizon of each strategy. 
+We can compare the returns of strategies with different time horizon now. 
+Since there are four quarters in a year,the annual return of strategy B is
+
+(1+0.06)4=1+r
+r=0.262
+
+Strategy B has an higher compounding annual return when we compare 26% with 20%.
